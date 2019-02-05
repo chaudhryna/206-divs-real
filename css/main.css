@@ -126,6 +126,10 @@ footer {
 }
 
 header {
+  height: 7em;
+}
+
+header h1 {
   font-size: 3em;
   font-family: "Dancing Script", cursive;
 }
